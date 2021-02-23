@@ -1,5 +1,5 @@
 # weatherapp
-App to check weather by City by utilising OpenWeather API
+App to check weather by city by utilising OpenWeather API
 
 Aims of Project:
 
