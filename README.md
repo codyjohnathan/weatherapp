@@ -17,4 +17,5 @@ https://www.youtube.com/watch?v=7JoMTQgdxg0
 Learning Outcomes:
 
 Effectively retrieve data from Weather API: https://openweathermap.org/api
-Obtained knowledge on how tikinder functions and can be manipulated
+- Obtained knowledge on how tikinder functions and can be manipulated
+- Utilising tuples to store an array of data retrieved from API
