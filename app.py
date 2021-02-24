@@ -54,6 +54,7 @@ app = Tk()
 app.title("Weather App")
 app.geometry("600x250")
 
+
 city_text = StringVar()
 city_entry = Entry(app, textvariable=city_text)
 city_entry.pack()
@@ -61,6 +62,10 @@ city_entry.pack()
 search_btn = Button(app, text="Weather by City",
                     width=12, command=search)
 search_btn.pack()
+
+quit_btn = Button(app, text="I'm finished", command=app.quit)
+quit_btn.pack()
+
 
 loc_label = Label(app, text="", font=("bold", 20))
 loc_label.pack()
