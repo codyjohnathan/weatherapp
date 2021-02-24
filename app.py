@@ -51,7 +51,7 @@ def search():
 
 app = Tk()
 
-# app.title("Weather App")
+app.title("Weather App")
 app.geometry("600x250")
 
 city_text = StringVar()
